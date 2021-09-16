@@ -1,0 +1,331 @@
+[
+      {
+        "id": 1,
+        "title": "Intel Is Reducing Server Chip Pricing in Attempt to Stem the AMD Tide",
+        "website": "(tomshardware.com)",
+		    "url": "https://www.tomshardware.com",
+        "points": 115,
+        "user": "rbanffy",
+        "time": "2 hours ago",
+        "comments": 67
+      },
+
+      {
+        "id": 2,
+        "title": "AI recognizes race in medical images",
+        "website": "(explainthispaper.com)",
+		    "url": "https://www.explainthispaper.com",
+        "points": 31,
+        "user": "stuartbman",
+        "time": "30 minutes ago",
+        "comments": 15
+      },
+
+      {
+        "id": 3,
+        "title": "Scientists Create Matter from Pure Light, Proving the Breit-Wheeler Effect",
+        "website": "(science-news.co)",
+		    "url": "https://www.science-news.com",
+        "points": 81,
+        "user": "was_a_dev",
+        "time": "3 hours ago",
+        "comments": 49
+      },
+
+      {
+        "id": 4,
+        "title": "Machine-Leaning media bias",
+        "website": "(unite.ai)",
+		    "url": "https://www.unite.ai",
+        "points": 43,
+        "user": "Hard_space",
+        "time": "2 hours ago",
+        "comments": 13
+      },
+
+      {
+        "id": 5,
+        "title": "14kb WASM game written in B",
+        "website": "(skoppe.github.io)",
+		    "url": "https://www.skoppe.github.io",
+        "points": 10,
+        "user": "Shadonototra",
+        "time": "37 minutes ago",
+        "comments": 0
+      },
+
+      {
+        "id": 6,
+        "title": "Entrepreneur plans to resurrect wolly mammoths",
+        "website": "(nhm.ac.uk)",
+		    "url": "https://nhm.ac.uk",
+        "points": 11,
+        "user": "lloyd234",
+        "time": "56 minutes ago",
+        "comments": 3
+      },
+
+      {
+        "id": 7,
+        "title": "Scikit learn Version 1.0",
+        "website": "(scikit-learn.org)",
+		    "url": "https://scikit-learn.org",
+        "points": 43,
+        "user": "m3at",
+        "time": "2 hours ago",
+        "comments": 13
+      },
+
+      {
+        "id": 8,
+        "title": "Gordian Software (YC2016) is hiring Software Engineers",
+        "website": "(ashby-hq.com)",
+		    "url": "https://ashby-hq.com",
+        "points": 51,
+        "user": "kimmy5s",
+        "time": "4 hours ago",
+        "comments": 66
+      },
+
+      {
+        "id": 9,
+        "title": "NASA confirms new orbit on space",
+        "website": "(nasa.com)",
+		    "url": "https://nasa.com",
+        "points": 39,
+        "user": "thespacegeek",
+        "time": "2 hours ago",
+        "comments": 34
+      },
+
+      {
+        "id": 10,
+        "title": "Facebook know Instagram is Toxic For Teen Girls, Company Document Shows",
+        "website": "(wsq.com)",
+		    "url": "https://wsq.com",
+        "points": 31,
+        "user": "legalmentor23",
+        "time": "47 minutes ago",
+        "comments": 30
+      },
+
+      {
+        "id": 11,
+        "title": "13 Year Old Brothers Build New Startup with $70m in Asset and 13 Employees",
+        "website": "(startup.com)",
+		    "url": "https://startup.com",
+        "points": 51,
+        "user": "g33ks",
+        "time": "8 hours ago",
+        "comments": 56
+      },
+
+      {
+        "id": 12,
+        "title": "Beyonce buys Liverpool, Says Her Childhood Dream Realized",
+        "website": "(soccerinvest.com)",
+		    "url": "https://soccerinvest.com",
+        "points": 77,
+        "user": "theunderatedagent",
+        "time": "6 hours ago",
+        "comments": 69
+      },
+
+      {
+        "id": 13,
+        "title": "Dr Who hits 40m in box office after Netflix deal",
+        "website": "(hi-movies.com)",
+		    "url": "https://hi-movies.com",
+        "points": 51,
+        "user": "kimmy5s",
+        "time": "4 hours ago",
+        "comments": 36
+      },
+
+      {
+        "id": 14,
+        "title": "Facebook takes over Amazon as Tension boils",
+        "website": "(yourinvest.com)",
+		    "url": "https://yourinvest.com",
+        "points": 21,
+        "user": "kimmy5s",
+        "time": "55 minutes ago",
+        "comments": 10
+      },
+
+      {
+        "id": 15,
+        "title": "Boeing 737 Upgraded to Hold Up to 500 Passengers",
+        "website": "(insideflights.com)",
+		    "url": "https://insideflights.com",
+        "points": 81,
+        "user": "joeryan324",
+        "time": "8 hours ago",
+        "comments": 56
+      },
+
+      {
+        "id": 16,
+        "title": "Jay Z Purchases Henper Inc For $250m as He Itches Towards $2bn",
+        "website": "(entertainment.com)",
+		    "url": "https://entertainment.com",
+        "points": 41,
+        "user": "thatgoon45",
+        "time": "3 hours ago",
+        "comments": 32
+      },
+
+      {
+        "id": 17,
+        "title": "Neflix To Launch in 5 More Countries, says CEO",
+        "website": "(moviestv.com)",
+		    "url": "https://moviestv.com",
+        "points": 21,
+        "user": "kimmy5s",
+        "time": "1 hour ago",
+        "comments": 8
+      },
+
+      {
+        "id": 18,
+        "title": "FAANG to Cut Total Jobs by 20 Percent in 2025, Says George Wang",
+        "website": "(theeconomictimes.com)",
+	      "url": "https://theeconomictimes.com",
+        "points": 65,
+        "user": "mantle354",
+        "time": "9 hours ago",
+        "comments": 88
+      },
+
+      {
+        "id": 19,
+        "title": "Etihad Airways acquires Juventus Football Club For $2bn",
+        "website": "(thefootyhub.com)",
+	      "url": "https://thefootyhub.com",
+        "points": 21,
+        "user": "jacks21",
+        "time": "2 hours ago",
+        "comments": 16
+      },
+
+      {
+        "id": 20,
+        "title": "Gordian Software (YC2016) is hiring Software Engineers",
+        "website": "(ashby-hq.com)",
+	      "url": "https://ashby-hq.com",
+        "points": 51,
+        "user": "kimmy5s",
+        "time": "4 hours ago",
+        "comments": 66
+      },
+
+      {
+        "id": 21,
+        "title": "Anthony Joshua Joins List Of Celebrities who Owns a Tesla Stock",
+        "website": "(boxing-hq.com)",
+	      "url": "https://boxing-hq.com",
+        "points": 21,
+        "user": "african-report.com",
+        "time": "2 hours ago",
+        "comments": 16
+      },
+
+      {
+        "id": 22,
+        "title": "Worlds First Supercomputer malfunctions.",
+        "website": "(history.com)",
+		    "url": "https://history.com",
+        "points": 72,
+        "user": "rapidgeek",
+        "time": "10 hours ago",
+        "comments": 76
+      },
+
+      {
+        "id": 23,
+        "title": "Gordian Software (YC2016) is hiring Software Engineers",
+        "website": "(ashby-hq.com)",
+	      "url": "https://ashby-hq.com",
+        "points": 51,
+        "user": "kimmy5s",
+        "time": "4 hours ago",
+        "comments": 66
+      },
+
+      {
+        "id": 24,
+        "title": "Two Females, 24 and 25, Embark on Largest IPO in History",
+        "website": "(businessinfo.com)",
+		    "url": "https://businessinfo.com",
+        "points": 31,
+        "user": "kally12",
+        "time": "4 hours ago",
+        "comments": 30
+      },
+
+      {
+        "id": 25,
+        "title": "Jakob Elsa and Mark Zuckerberg patners for World Tech Summit",
+        "website": "(tech.com)",
+		   "url": "https://tech.com",
+        "points": 67,
+        "user": "manyte5s",
+        "time": "2 hours ago",
+        "comments": 34
+      },
+
+      {
+        "id": 26,
+        "title": "USA budgets $40m for climate change",
+        "website": "(thewhitehouse.com)",
+		    "url": "https://thewhitehouse.com",
+        "points": 61,
+        "user": "james345",
+        "time": "2 hours ago",
+        "comments": 80
+      },
+
+      {
+        "id": 27,
+        "title": "Gordian Software (YC2016) is hiring Software Engineers",
+        "website": "(ashby-hq.com)",
+		    "url": "https://ashby-hq.com",
+        "points": 51,
+        "user": "kimmy5s",
+        "time": "4 hours ago",
+        "comments": 66
+      },
+
+      {
+        "id": 28,
+        "title": "Gordian Software (YC2016) is hiring Software Engineers",
+        "website": "(ashby-hq.com)",
+		    "url": "https://ashby-hq.com",
+        "points": 51,
+        "user": "kimmy5s",
+        "time": "4 hours ago",
+        "comments": 66
+      },
+
+      {
+        "id": 29,
+        "title": "Gordian Software (YC2016) is hiring Software Engineers",
+        "website": "(ashby-hq.com)",
+		    "url": "https://ashby-hq.com",
+        "points": 51,
+        "user": "kimmy5s",
+        "time": "4 hours ago",
+        "comments": 66
+      },
+
+      {
+        "id": 30,
+        "title": "Gordian Software (YC2016) is hiring Software Engineers",
+        "website": "(ashby-hq.com)",
+		    "url": "https://ashby-hq.com",
+        "points": 51,
+        "user": "kimmy5s",
+        "time": "4 hours ago",
+        "comments": 66
+      }
+]

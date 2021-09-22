@@ -11,11 +11,12 @@ This project is a clone of the Hacker News homepage. The Front-end is built usin
 The `use-harperdb` [React hook](https://www.npmjs.com/package/use-harperdb) is used to fetch data (posts) which is displayed on the page.
 
 
-> If you like this project, I will really appreciate it if you can give this repository a star. Thank you!
+>
+If you like this project, I will really appreciate it if you can give this repository a star. Thank you!
 
 
 ## How to begin
-- Using Git, clone this project to your local machine using the `git clone` command
+- Using Git, clone this project to your local machine with the `git clone` command
 - Run `npm install` to install all dependencies
 
 You are free to fork this project.

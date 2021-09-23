@@ -27,7 +27,7 @@ if(data) {
             return (
             <div key={post.id}>
               <p><span className="number">{post.id}.</span> <span className="triangle"></span>{post.title}<a href={post.url} className="website">{post.website}</a> </p>
-              <p className="secondary">{post.points} points by <a href="" className="outline">{post.user}</a> <a href="" className="outline">{post.time}</a>  | <a href="" className="outline">hide</a> |  <a class="outline" href="">{post.comments} comments</a> </p>
+              <p className="secondary">{post.points} points by <a href="https://news.ycombinator.com/newest" className="outline">{post.user}</a> <a href="https://news.ycombinator.com/newest" className="outline">{post.time}</a>  | <a href="https://news.ycombinator.com/newest" className="outline">hide</a> |  <a class="outline" href="">{post.comments} comments</a> </p>
             </div>
           )
           })}
@@ -35,12 +35,12 @@ if(data) {
           </div>
 
           <div className="footer">
-            <p><a href="" onClick={refresh}>More</a></p>
+            <p><a href="https://news.ycombinator.com/newest" onClick={refresh}>More</a></p>
             <hr />
             <div className="links">
-              <p><a href="">Guidelines</a><span className="stroke">|</span> <a href="">FAQs</a><span className="stroke">|</span> <a href="">Lists</a><span className="stroke">|</span>
-                  <a href="">API</a><span className="stroke">|</span> <a href="">Security</a><span className="stroke">|</span> <a href="">Legal</a><span className="stroke">|</span>
-                  <a href="">Apply to YC</a><span className="stroke">|</span> <a href="">Contact</a>
+              <p><a href="https://news.ycombinator.com/guidelines">Guidelines</a><span className="stroke">|</span> <a href="https://news.ycombinator.com/faqs">FAQs</a><span className="stroke">|</span> <a href="https://news.ycombinator.com/lists">Lists</a><span className="stroke">|</span>
+                  <a href="https://news.ycombinator.com/api">API</a><span className="stroke">|</span> <a href="https://news.ycombinator.com/security">Security</a><span className="stroke">|</span> <a href="https://news.ycombinator.com/legal">Legal</a><span className="stroke">|</span>
+                  <a href="https://news.ycombinator.com/apply">Apply to YC</a><span className="stroke">|</span> <a href="https://news.ycombinator.com/contact">Contact</a>
               </p>
             </div>
             <div className="form">
